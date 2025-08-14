@@ -1,7 +1,5 @@
-## Demo Dự Án Robot Tay Máy 6DOF
+## Demo: 6DOF Robotic Arm Project
 
-Đây là đoạn video mô tả quá trình **xây dựng, điều khiển và mô phỏng robot tay máy 6DOF từ đầu**:
+Here is a video showcasing the process of building, controlling, and simulating a 6DOF robotic arm from scratch:
 
-[![Xây dựng robot tay máy 6DOF](https://img.youtube.com/vi/36f4Qu18nGw/maxresdefault.jpg)](https://youtu.be/36f4Qu18nGw)
-
-Nhấp vào thumbnail để xem video đầy đủ.
+[![6DOF Robotic Arm Demo](https://img.youtube.com/vi/36f4Qu18nGw/maxresdefault.jpg)](https://youtu.be/36f4Qu18nGw)
