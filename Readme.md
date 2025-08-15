@@ -2,7 +2,7 @@
 
 Here is a video showcasing the process of building, controlling, and simulating a 6DOF robotic arm from scratch:
 
-[![6DOF Robotic Arm Demo](https://img.youtube.com/vi/36f4Qu18nGw/maxresdefault.jpg)](https://youtu.be/36f4Qu18nGw)
+[![6DOF Robotic Arm Demo](https://i.postimg.cc/QMdF18Zf/msedge-pe-Rd7su-Gx5.png)](https://i.postimg.cc/QMdF18Zf/msedge-pe-Rd7su-Gx5.png))](https://youtu.be/36f4Qu18nGw)
 
 ## 6DOF Robotic Arm for Object Detection, Localization, and Classification Using a Depth Camera
 
